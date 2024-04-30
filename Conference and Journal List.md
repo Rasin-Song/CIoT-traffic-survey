@@ -28,6 +28,7 @@
 | IEEE EuroS&P  | IEEE European Symposium on Security and Privacy  |
 | ACSAC  | Annual Computer Security Applications Conference  |
 | Asiacrypt  | Annual International Conference on the Theory and Application of Cryptology and Information Security  |
+| IoTJ  | IEEE Internet of Things Journal  |
 | DSN  | The International Conference on Dependable Systems and Networks  |
 | SOUPS  | Symposium On Usable Privacy and Security  |
 | FC  | Financial Cryptography and Data Security  |
@@ -53,10 +54,8 @@
 | WCNC  | IEEE Wireless Communications \& Networking Conference  |
 | CoNEXT  | ACM International Conference on Emerging Networking Experiments and Technologies  |
 | ICDCS  | International Conference on Distributed Computing Systems  |
-| PETS  | Privacy Enhancing Technologies Symposium  |
-| PETS  | Privacy Enhancing Technologies Symposium  |
-| PETS  | Privacy Enhancing Technologies Symposium  |
-| PETS  | Privacy Enhancing Technologies Symposium  |
-| PETS  | Privacy Enhancing Technologies Symposium  |
-| PETS  | Privacy Enhancing Technologies Symposium  |
-| PETS  | Privacy Enhancing Technologies Symposium  |
+| TWC  | IEEE Transactions on Wireless Communications  |
+| ESEM  | International Symposium on Empirical Software Engineering and Measurement  |
+| PERCOM  | IEEE International Conference on Pervasive Computing and Communications  |
+| IFIP  | IEEE International Symposium on Integrated Network Management  |
+| ICC  | IEEE International Conference on Communications  |
