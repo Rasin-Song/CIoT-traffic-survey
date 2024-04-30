@@ -1,6 +1,8 @@
 # A. Device Fingerprinting
 ## 1) Device Identification
-
+| **Year**  | **Publication** | **Name** | 
+| :-----------: | :-----------: | ------------- |
+| CCS | CCS | ACM Conference on Computer and Communications Security |
 
 ## 2) Device Behavior Identification
 
