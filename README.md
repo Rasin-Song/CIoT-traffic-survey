@@ -1,1 +1,1 @@
-This document records supplementary information related to the paper "A Survey on Consumer IoT Traffic: Security and Privacy". If needing to use related content, please cite this article. [Arxiv](https://arxiv.org/abs/2403.16149)
+This document records supplementary information related to the paper "A Survey on Consumer IoT Traffic: Security and Privacy". If needing to use related content, please cite this article. [Arxiv: 2403.16149](https://arxiv.org/abs/2403.16149)
