@@ -2,9 +2,9 @@
 
 # The A-Class conference and journal list
 
-| First Header  | Second Header |
+| Abbreviation  | Full Name |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| CCS  | ACM Conference on Computer and Communications Security  |
+| S&P  | IEEE Symposium on Security and Privacy  |
 
 </p>
