@@ -3,8 +3,6 @@
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
 | 2020 | CCS | Your |
-
-
 | 2015 | TDSC | GTID: A Technique for Physical Device and Device Type Fingerprinting |
 | 2017 | INFOCOM WKSHPS | Characterizing and classifying IoT traffic in smart cities and campuses |
 | 2018 | SIGCOMM | IP-Based IoT Device Detection |
