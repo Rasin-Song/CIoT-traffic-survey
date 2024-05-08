@@ -14,10 +14,14 @@
 | 2020 | USENIX | You Are What You Broadcast: Identification of Mobile and IoT Devices from (Public) WiFi |
 | 2020 | INFOCOM | Pinpointing Hidden IoT Devices via Spatial-temporal Traffic Fingerprinting |
 | 2020 | IMC | A Haystack Full of Needles: Scalable Detection of IoT Devices in the Wild |
+| 2020 | TON | Detecting IoT Devices in the Internet |
+| 2021 | DSN | Sanitizing the IoT Cyber Security Posture: An Operational CTI Feed Backed up by Internet Measurements |
 | 2022 | CCNC | WiFi-based IoT Devices Profiling Attack Based on Eavesdropping of Encrypted WiFi Traffic |
 | 2022 | CCWC | Smart Recon: Network Traffic Fingerprinting for IoT Device Identification |
 | 2022 | INFOCOM WKSHP | Optimal Feature Set Selection for IoT Device Fingerprinting on Edge Infrastructure Using Machine Intelligence |
 | 2022 | INFOCOM | Optimal Feature Set Selection for IoT Device Fingerprinting on Edge Infrastructure Using Machine Intelligence |
+| 2022 | TON | Inferring Hidden IoT Devices and User Interactions via Spatial-Temporal Traffic Fingerprinting |
+| 2022 | PETS | Analyzing the Feasibility and Generalizability of Fingerprinting Internet of Things Devices |
 | 2023 | TDSC | IoTa: Fine-Grained Traffic Monitoring for IoT Devices via Fully Packet-Level Models |
 
 
@@ -41,6 +45,10 @@
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
 # C. Malicious Traffic Analysis
+| **Year**  | **Publication** | **Name** | 
+| :-----------: | :-----------: | ------------- |
+| 2021 | USENIX | I Always Feel Like Somebody’s Sensing Me! A Framework to Detect, Identify, and Localize Clandestine Wireless Sensors |
+| 2022 | USENIX | Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment |
 ## 1) Detecting Attack on CIoT
 
 ## 2) CIoT Botnet Detection
