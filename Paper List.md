@@ -16,6 +16,10 @@
 | 2020 | IMC | A Haystack Full of Needles: Scalable Detection of IoT Devices in the Wild |
 | 2020 | TON | Detecting IoT Devices in the Internet |
 | 2021 | DSN | Sanitizing the IoT Cyber Security Posture: An Operational CTI Feed Backed up by Internet Measurements |
+| 2021 | Globecom | IoT-ID: Robust IoT Device Identification Based on Feature Drift Adaptation |
+| 2021 | Globecom | ScottishFold: CatBoost-Enabled Lightweight Autonomous Smart Home Device Classification |
+| 2022 | Globecom | A Framework for Storage-Accuracy Optimization of IoT Forensic Analysis |
+| 2022 | Globecom | IoT Device Identification Based on Network Traffic Characteristics |
 | 2022 | CCNC | WiFi-based IoT Devices Profiling Attack Based on Eavesdropping of Encrypted WiFi Traffic |
 | 2022 | CCWC | Smart Recon: Network Traffic Fingerprinting for IoT Device Identification |
 | 2022 | INFOCOM WKSHP | Optimal Feature Set Selection for IoT Device Fingerprinting on Edge Infrastructure Using Machine Intelligence |
@@ -28,15 +32,20 @@
 ## 2) Device Behavior Identification
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
+| 2017 | Globecom | Modelling of IoT Traffic and Its Impact on LoRaWAN |
+| 2019 | IM | Passive Inference of User Actions through IoT Gateway Encrypted Traffic Analysis |
 | 2020 | NDSS | Packet-Level Signatures for Smart Home Devices |
 | 2020 | INFOCOM | IoTGaze: IoT Security Enforcement via Wireless Context Analysis |
 | 2020 | ACSAC | LeakyPick: IoT Audio Spy Detector |
 | 2020 | INFOCOM | IoT Event Classification Based on Network Traffic |
+| 2021 | IM | PINBALL: Universal and Robust Signature Extraction for Smart Home Devices |
+| 2022 | ACNS | ZLeaks: Passive Inference Attacks on Zigbee Based Smart Homes |
 | 2023 | IMC | BehavIoT: Measuring Smart Home IoT Behavior Using Network-Inferred Behavior Models |
 
 ## 3) Hidden Device Detection
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
+| 2018 | AsiaCCS | DeWiCam: Detecting Hidden Wireless Cameras via Smartphones |
 | 2021 | USENIX | I Always Feel Like Somebody’s Sensing Me! A Framework to Detect, Identify, and Localize Clandestine Wireless Sensors |
 | 2022 | USENIX | Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment |
 
