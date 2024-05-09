@@ -96,7 +96,22 @@
 ## B. User Activity Inference
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
-| 2020 | CCS | Your |
+| 2016 | INFOCOMS | Side-channel information leakage of encrypted video stream in video surveillance systems |
+| 2017 | Arxiv | A Smart Home is No Castle: Privacy Vulnerabilities of Encrypted IoT Traffic |
+| 2018 | CCS | The House That Knows You: User Authentication Based on IoT Data |
+| 2018 | ICDCS | Private Memoirs of IoT Devices: Safeguarding User Privacy in the IoT Era |
+| 2019 | CCS | Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices |
+| 2019 | IM | Passive Inference of User Actions through IoT Gateway Encrypted Traffic Analysis |
+| 2019 | Sensors | Detecting IoT User Behavior and Sensitive Information in Encrypted IoT-App Traffic |
+| 2020 | WiSec | Peek-a-boo: i see your smart home activities, even encrypted! |
+| 2020 | WiSec | Fingerprinting encrypted voice traffic on smart speakers with deep learning |
+| 2020 | PIMRC | IoTSpy: Uncovering Human Privacy Leakage in IoT Networks via Mining Wireless Context |
+| 2021 | WiSec | Misactivation detection and user identification in smart home speakers using traffic flow features |
+| 2022 | INFOCOM | IoTMosaic: Inferring User Activities from IoT
+Network Traffic in Smart Homes |
+| 2022 | ICDCS | Multi-Party Computation in IoT for Privacy-Preservation |
+| 2022 | GlobeCom | An Incentive-Based Differential Privacy-Preserving Truth Discovery over Streaming Data |
+| 2023 | USENIX | Spying through Your Voice Assistants: Realistic Voice Command Fingerprinting |
 
 
 ## C. Malicious Traffic Analysis
@@ -109,5 +124,28 @@
 ### 2) CIoT Botnet Detection
 
 ## D. Security Analysis
+| 2023 |  |  |
+
 
 ## E. Measurement
+### 1) Security
+| 2019 | USENIX | All Things Considered: An Analysis of IoT Devices on Home Networks |
+| 2019 | NDSS | Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet |
+| 2021 | S&P | Can ISPs Help Mitigate IoT Malware? A Longitudinal Study of Broadband ISP Security Efforts |
+| 2021 | IMC | IoTLS: understanding TLS usage in consumer IoT devices |
+| 2022 | IMC | Deep dive into the IoT backend ecosystem |
+| 2022 | Globecom | Macroscopic Analysis of IoT Botnets |
+| 2023 | IMC | Behind the Scenes: Uncovering TLS and Server Certificate Practice of IoT Device Vendors in the Wild |
+
+### 2) Privacy
+| 2019 | IMC | Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach |
+| 2020 | INFOCOM | Your Privilege Gives Your Privacy Away: An
+Analysis of a Home Security Camera Service |
+| 2020 | ACM Interact. Mob. Wearable Ubiquitous Technol | IoT Inspector: Crowdsourcing Labeled Network Traffic from Smart Home Devices at Scale |
+| 2020 | PETS | When Speakers Are All Ears: Characterizing Misactivations of IoT Smart Speakers |
+| 2020 | PETS | The TV is Smart and Full of Trackers: Measuring Smart TV Advertising and Tracking |
+| 2021 | PETS | Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic |
+| 2023 | CHI | Understanding Dark Patterns in Home IoT Devices |
+| 2023 | S&P | Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards |
+| 2023 | IMC | In the Room Where It Happens: Characterizing Local Communication and Threats in Smart Homes |
+| 2023 | IMC | Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem |
