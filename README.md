@@ -6,7 +6,7 @@ We refer to some well-known public lists of academic conferences and journals in
 ## Paper List
 We divide existing work into 5 major categories:
 1. Device Fingerprinting. [Link](./Paper%20List.md#a-device-fingerprinting)
-2. User Activity Inference. [Link]([./Paper%20List.md#b-user-activity-inference](https://github.com/Rasin-Song/CIoT-traffic-survey/blob/main/Paper%20List.md#b-user-activity-inference))
+2. User Activity Inference. [Link](https://github.com/Rasin-Song/CIoT-traffic-survey/blob/main/Paper%20List.md#b-user-activity-inference)
 3. 
 
 
