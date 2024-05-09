@@ -157,8 +157,7 @@ Network Traffic in Smart Homes |
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
 | 2019 | IMC | Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach |
-| 2020 | INFOCOM | Your Privilege Gives Your Privacy Away: An
-Analysis of a Home Security Camera Service |
+| 2020 | INFOCOM | Your Privilege Gives Your Privacy Away: An Analysis of a Home Security Camera Service |
 | 2020 | ACM Interact. Mob. Wearable Ubiquitous Technol | IoT Inspector: Crowdsourcing Labeled Network Traffic from Smart Home Devices at Scale |
 | 2020 | PETS | When Speakers Are All Ears: Characterizing Misactivations of IoT Smart Speakers |
 | 2020 | PETS | The TV is Smart and Full of Trackers: Measuring Smart TV Advertising and Tracking |
