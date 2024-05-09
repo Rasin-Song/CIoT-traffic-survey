@@ -5,10 +5,16 @@ We refer to some well-known public lists of academic conferences and journals in
 
 ## Paper List
 We divide existing work into 5 major categories: 
+
 A. Device Fingerprinting
+
 B. User Activity Inference
+
 C. Malicious Traffic Analysis
+
 D. Security Analysis
+
 E. Measurement
+
 [Link](./Paper%20List.md#a-device-fingerprinting)
 
