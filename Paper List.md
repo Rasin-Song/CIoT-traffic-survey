@@ -124,11 +124,27 @@ Network Traffic in Smart Homes |
 ### 2) CIoT Botnet Detection
 
 ## D. Security Analysis
-| 2023 |  |  |
+| **Year**  | **Publication** | **Name** | 
+| :-----------: | :-----------: | ------------- |
+| 2018 | INFOCOM | A Novel Graph-based Mechanism for Identifying Traffic Vulnerabilities in Smart Home IoT |
+| 2019 | ESORICS | Identifying Privilege Separation Vulnerabilities in IoT Firmware with Symbolic Execution |
+| 2020 | Globecom | A Defense Mechanism for Timing-based Side-Channel Attacks on IoT Traffic |
+| 2020 | ESORICS | IoT Vulnerability Scanning: A State of the Art |
+| 2020 | ESORICS | Adversarial Examples for Hardware-Trojan Detection at Gate-Level Netlists |
+| 2021 | DSNW | Whether the sensitive information statement of the IoT privacy policy is consistent with the actual behavior |
+| 2021 | DSN | WazaBee: attacking Zigbee networks by diverting Bluetooth Low Energy chips |
+| 2021 | DSN | InjectaBLE: Injecting malicious traffic into established Bluetooth Low Energy connections |
+| 2022 | DSN | KINGFISHER: Unveiling Insecurely Used Credentials in IoT-to-Mobile Communications |
+| 2022 | PETS | Watch Over Your TV: A Security and Privacy Analysis of the Android TV Ecosystem |
+| 2022 | NOMS | Automated IoT security testing with SecLab |
+| 2023 | NOMS | Worst Attack Vulnerability and Fortification for IoT Security Management: An Approach and An Illustration for Smart Home IoT |
+| 2023 | CCS | IoTFlow: Inferring IoT Device Behavior at Scale through Static Mobile Companion App Analysis |
 
 
 ## E. Measurement
 ### 1) Security
+| **Year**  | **Publication** | **Name** | 
+| :-----------: | :-----------: | ------------- |
 | 2019 | USENIX | All Things Considered: An Analysis of IoT Devices on Home Networks |
 | 2019 | NDSS | Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet |
 | 2021 | S&P | Can ISPs Help Mitigate IoT Malware? A Longitudinal Study of Broadband ISP Security Efforts |
@@ -138,6 +154,8 @@ Network Traffic in Smart Homes |
 | 2023 | IMC | Behind the Scenes: Uncovering TLS and Server Certificate Practice of IoT Device Vendors in the Wild |
 
 ### 2) Privacy
+| **Year**  | **Publication** | **Name** | 
+| :-----------: | :-----------: | ------------- |
 | 2019 | IMC | Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach |
 | 2020 | INFOCOM | Your Privilege Gives Your Privacy Away: An
 Analysis of a Home Security Camera Service |
