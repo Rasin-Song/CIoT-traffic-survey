@@ -5,6 +5,6 @@ We refer to some well-known public lists of academic conferences and journals in
 
 # Paper List
 We divide existing work into 5 major categories:
-### 1. Device Fingerprinting. [Paper](Paper-List.md#a-Device-Fingerprinting)
+### 1. Device Fingerprinting. [Paper](Paper-List.md#a.-Device-Fingerprinting)
 
 ### 
