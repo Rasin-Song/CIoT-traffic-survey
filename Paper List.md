@@ -1,5 +1,5 @@
-# A. Device Fingerprinting
-## 1) Device Identification
+## A. Device Fingerprinting
+### 1) Device Identification
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
 | 2015 | TDSC | GTID: A Technique for Physical Device and Device Type Fingerprinting |
@@ -63,7 +63,7 @@
 | 2023 | IoT Journal | IoT Device Identification via A Bio-Inspired Feature Selection Approach |
 
 
-## 2) Device Behavior Identification
+### 2) Device Behavior Identification
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
 | 2017 | Globecom | Modelling of IoT Traffic and Its Impact on LoRaWAN |
@@ -83,7 +83,7 @@
 | 2023 | IMC | BehavIoT: Measuring Smart Home IoT Behavior Using Network-Inferred Behavior Models |
 
 
-## 3) Hidden Device Detection
+### 3) Hidden Device Detection
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
 | 2016 | INFOCOM | Side-channel information leakage of encrypted video stream in video surveillance systems |
@@ -93,21 +93,21 @@
 | 2022 | USENIX | Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment |
 
 
-# B. User Activity Inference
+## B. User Activity Inference
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
 | 2020 | CCS | Your |
 
 
-# C. Malicious Traffic Analysis
+## C. Malicious Traffic Analysis
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
 | 2021 | USENIX | I Always Feel Like Somebody’s Sensing Me! A Framework to Detect, Identify, and Localize Clandestine Wireless Sensors |
 | 2022 | USENIX | Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment |
-## 1) Detecting Attack on CIoT
+### 1) Detecting Attack on CIoT
 
-## 2) CIoT Botnet Detection
+### 2) CIoT Botnet Detection
 
-# D. Security Analysis
+## D. Security Analysis
 
-# E. Measurement
+## E. Measurement
