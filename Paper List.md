@@ -107,8 +107,7 @@
 | 2020 | WiSec | Fingerprinting encrypted voice traffic on smart speakers with deep learning |
 | 2020 | PIMRC | IoTSpy: Uncovering Human Privacy Leakage in IoT Networks via Mining Wireless Context |
 | 2021 | WiSec | Misactivation detection and user identification in smart home speakers using traffic flow features |
-| 2022 | INFOCOM | IoTMosaic: Inferring User Activities from IoT
-Network Traffic in Smart Homes |
+| 2022 | INFOCOM | IoTMosaic: Inferring User Activities from IoT Network Traffic in Smart Homes |
 | 2022 | ICDCS | Multi-Party Computation in IoT for Privacy-Preservation |
 | 2022 | GlobeCom | An Incentive-Based Differential Privacy-Preserving Truth Discovery over Streaming Data |
 | 2023 | USENIX | Spying through Your Voice Assistants: Realistic Voice Command Fingerprinting |
