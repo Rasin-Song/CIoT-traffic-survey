@@ -250,7 +250,7 @@
 | 2023 | WCNC | Scalable Wireless Anomaly Detection with Generative-LSTMs on RF Post-Detection Metadata |
 
 
-## E. Measurement
+## D. Measurement
 ### 1) Security
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
