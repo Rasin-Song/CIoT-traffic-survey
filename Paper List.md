@@ -249,23 +249,6 @@
 | 2023 | WCNC | Efficient Privacy-Preserving Federated Learning Against Inference Attacks for IoT | 
 | 2023 | WCNC | Scalable Wireless Anomaly Detection with Generative-LSTMs on RF Post-Detection Metadata |
 
-## D. Security Analysis
-| **Year**  | **Publication** | **Name** | 
-| :-----------: | :-----------: | ------------- |
-| 2018 | INFOCOM | A Novel Graph-based Mechanism for Identifying Traffic Vulnerabilities in Smart Home IoT |
-| 2019 | ESORICS | Identifying Privilege Separation Vulnerabilities in IoT Firmware with Symbolic Execution |
-| 2020 | Globecom | A Defense Mechanism for Timing-based Side-Channel Attacks on IoT Traffic |
-| 2020 | ESORICS | IoT Vulnerability Scanning: A State of the Art |
-| 2020 | ESORICS | Adversarial Examples for Hardware-Trojan Detection at Gate-Level Netlists |
-| 2021 | DSNW | Whether the sensitive information statement of the IoT privacy policy is consistent with the actual behavior |
-| 2021 | DSN | WazaBee: attacking Zigbee networks by diverting Bluetooth Low Energy chips |
-| 2021 | DSN | InjectaBLE: Injecting malicious traffic into established Bluetooth Low Energy connections |
-| 2022 | DSN | KINGFISHER: Unveiling Insecurely Used Credentials in IoT-to-Mobile Communications |
-| 2022 | PETS | Watch Over Your TV: A Security and Privacy Analysis of the Android TV Ecosystem |
-| 2022 | NOMS | Automated IoT security testing with SecLab |
-| 2023 | NOMS | Worst Attack Vulnerability and Fortification for IoT Security Management: An Approach and An Illustration for Smart Home IoT |
-| 2023 | CCS | IoTFlow: Inferring IoT Device Behavior at Scale through Static Mobile Companion App Analysis |
-
 
 ## E. Measurement
 ### 1) Security
@@ -292,3 +275,20 @@
 | 2023 | S&P | Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards |
 | 2023 | IMC | In the Room Where It Happens: Characterizing Local Communication and Threats in Smart Homes |
 | 2023 | IMC | Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem |
+
+## others---Security Analysis
+| **Year**  | **Publication** | **Name** | 
+| :-----------: | :-----------: | ------------- |
+| 2018 | INFOCOM | A Novel Graph-based Mechanism for Identifying Traffic Vulnerabilities in Smart Home IoT |
+| 2019 | ESORICS | Identifying Privilege Separation Vulnerabilities in IoT Firmware with Symbolic Execution |
+| 2020 | Globecom | A Defense Mechanism for Timing-based Side-Channel Attacks on IoT Traffic |
+| 2020 | ESORICS | IoT Vulnerability Scanning: A State of the Art |
+| 2020 | ESORICS | Adversarial Examples for Hardware-Trojan Detection at Gate-Level Netlists |
+| 2021 | DSNW | Whether the sensitive information statement of the IoT privacy policy is consistent with the actual behavior |
+| 2021 | DSN | WazaBee: attacking Zigbee networks by diverting Bluetooth Low Energy chips |
+| 2021 | DSN | InjectaBLE: Injecting malicious traffic into established Bluetooth Low Energy connections |
+| 2022 | DSN | KINGFISHER: Unveiling Insecurely Used Credentials in IoT-to-Mobile Communications |
+| 2022 | PETS | Watch Over Your TV: A Security and Privacy Analysis of the Android TV Ecosystem |
+| 2022 | NOMS | Automated IoT security testing with SecLab |
+| 2023 | NOMS | Worst Attack Vulnerability and Fortification for IoT Security Management: An Approach and An Illustration for Smart Home IoT |
+| 2023 | CCS | IoTFlow: Inferring IoT Device Behavior at Scale through Static Mobile Companion App Analysis |
