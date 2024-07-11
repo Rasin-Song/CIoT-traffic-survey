@@ -115,6 +115,7 @@
 
 ## C. Malicious Traffic Analysis
 | **Year**  | **Publication** | **Name** | 
+| :-----------: | :-----------: | ------------- |
 | 2017 | IM | Applied Machine Learning predictive analytics to SQL Injection Attack detection and prevention | 
 | 2017 | USENIX | Understanding the Mirai Botnet | 
 | 2018 | INFOCOM | Deep Learning Approach for Cyberattack Detection | 
