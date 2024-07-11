@@ -115,12 +115,138 @@
 
 ## C. Malicious Traffic Analysis
 | **Year**  | **Publication** | **Name** | 
-| :-----------: | :-----------: | ------------- |
+| 2017 | IM | Applied Machine Learning predictive analytics to SQL Injection Attack detection and prevention | 
+| 2017 | USENIX | Understanding the Mirai Botnet | 
+| 2018 | INFOCOM | Deep Learning Approach for Cyberattack Detection | 
+| 2018 | DSN | Inferring, Characterizing, and Investigating Internet-Scale Malicious IoT Device Activities: A Network Telescope Perspective | 
+| 2018 | Globecom | Efficient Identity Spoofing Attack Detection for IoT in mm-Wave and Massive MIMO 5G Communication | 
+| 2018 | NOMS | Graph-based IoT microservice security | 
+| 2018 | NOMS | Two-stage anomaly detection using application specific heavy hitter analysis | 
+| 2018 | RAID | Before Toasters Rise Up: A View into the Emerging IoT Threat Landscape | 
+| 2018 | SEC | Defending Internet of Things Against Malicious Domain Names using D-FENS | 
+| 2019 | CCS | HADES-IoT: A Practical Host-Based Anomaly Detection System for IoT Devices | 
+| 2019 | NDSS | Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet | 
+| 2019 | TIFS | A GLRT-Based Mechanism for Detecting Relay Misbehavior in Clustered IoT Networks | 
+| 2019 | ACSAC | Automatic Malware Detection on an Alexa-Pi IoT Device | 
+| 2019 | CN | BotGRABBER: SVM-Based Self-Adaptive System for the Network Resilience Against the Botnets’ Cyberattacks | 
+| 2019 | CoNEXT | Unsupervised machine learning for network-centric anomaly detection in IoT | 
+| 2019 | ESORICS | Selective Forwarding Attack on IoT Home Security Kits | 
+| 2019 | ESORICS | SEPD: An Access Control Model for Resource Sharing in an IoT Environment | 
+| 2019 | ESORICS | Web Servers Protection Using Anomaly Detection for HTTP Requests | 
+| 2019 | Globecom | Analyzing Adversarial Attacks against Deep Learning for Intrusion Detection in IoT Networks | 
+| 2019 | Globecom | Hierarchical Neural Networks for Detecting Anomalous Traffic Flows | 
+| 2019 | Globecom | Profiling IoT-Based Botnet Traffic Using DNS | 
+| 2019 | Globecom | Secure Routing in IoT: Evaluation of RPL's Secure Mode under Attacks | 
+| 2019 | GlobecomWkShps | Detecting IoT Malicious Traffic Based on Autoencoder and Convolutional Neural Network |
+| 2019 | ICDCS | DÏoT: A Federated Self-learning Anomaly Detection System for IoT | 
+| 2019 | IM | Evaluating a Blockchain-based Cooperative Defense | 
+| 2019 | IM | Offloading Real-time DDoS Attack Detection to Programmable Data Planes | 
+| 2019 | IM | TMAS: A Traffic Monitoring Analytics System Leveraging Machine Learning | 
+| 2019 | IM | Traffic Classification with Machine Learning in a Live Network | 
+| 2019 | IoT Journal | A Supervised Intrusion Detection System for Smart Home IoT Devices | 
+| 2019 | IoT Journal | An Ensemble Intrusion Detection Technique Based on Proposed Statistical Flow Features for Protecting Network Traffic of Internet of Things | 
+| 2019 | WCNC | Global Orchestration of Cooperative Defense against DDoS Attacks for MEC | 
+| 2019 | WCNC | Modeling and evaluation of a new IoT security system for mitigating DoS attacks to the MQTT broker | 
+| 2019 | WCNC | Securing Fog-to-Things Environment Using Intrusion Detection System Based On Ensemble Learning | 
+| 2020 | CCS | DeepPower: Non-intrusive and Deep Learning-based Detection of IoT Malware Using Power Side Channels | 
+| 2020 | INFOCOM | IoTArgos: A Multi-Layer Security Monitoring System for Internet-of-Things in Smart Homes | 
+| 2020 | NDSS | Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches | 
+| 2020 | S&P | Even Black Cats Cannot Stay Hidden in the Dark: Full-band De-anonymization of Bluetooth Classic Devices | 
+| 2020 | TON | IoT-KEEPER: Detecting Malicious IoT Network Activity Using Online Traffic Analysis at the Edge | 
+| 2020 | FC | The Implementation of a Network Log System Using RNN on Cyberattack Detection with Data Visualization | 
+| 2020 | Globecom | A Hierarchical Hybrid Intrusion Detection Approach in IoT Scenarios | 
+| 2020 | Globecom | A Method Aware of Concept Drift for Online Botnet Detection | 
+| 2020 | Globecom | Botnet Detection Using Recurrent Variational Autoencoder | 
+| 2020 | Globecom | Detecting Anomalous IoT Traffic Flow with Locality Sensitive Hashes | 
+| 2020 | Globecom | DistPrivacy: Privacy-Aware Distributed Deep Neural Networks in IoT surveillance systems | 
+| 2020 | Globecom | Generative Adversarial Network and Auto Encoder based Anomaly Detection in Distributed IoT Networks | 
+| 2020 | ICDCS | A Learning Approach with Programmable Data Plane towards IoT Security | 
+| 2020 | IoT Journal | An Ensemble of Deep Recurrent Neural Networks for Detecting IoT Cyber Attacks Using Network Traffic | 
+| 2020 | IoT Journal | Passban IDS: An Intelligent Anomaly-Based Intrusion Detection System for IoT Edge Devices | 
+| 2020 | NOMS | A Process Mining Approach for Supporting IoT Predictive Security | 
+| 2020 | NOMS | A Process Mining Tool for Supporting IoT Security | 
+| 2020 | NOMS | NFV-based IoT Security for Home Networks using MUD | 
+| 2020 | PerCom | A Proof of Concept Denial of Service Attack Against Bluetooth IoT Devices | 
+| 2020 | RAID | BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy Networks | 
+| 2020 | RAID | The Limitations of Federated Learning in Sybil Settings | 
+| 2020 | WCNC | Collaborative Learning Model for Cyberattack Detection Systems in IoT Industry 4.0 | 
+| 2020 | WiSec | Countering cross-technology jamming attack | 
+| 2020 | WiSec | Truncate after preamble: PHY-based starvation attacks on IoT networks | 
+| 2020 | WiSec | Zigator: analyzing the security of zigbee-enabled smart homes | 
+| 2020 | Inscrypt | Detecting IoT Botnet Attacks Using Machine Learning Methods |
+| 2021 | INFOCOM | Adaptive Clustering-based Malicious Traffic Classification at the Network Edge | 
+| 2021 | INFOCOM | Data Privacy Security Guaranteed Network Intrusion Detection System Based on Federated Learning | 
+| 2021 | S&P | Can ISPs Help Mitigate IoT Malware? A Longitudinal Study of Broadband ISP Security Efforts | 
+| 2021 | TDSC | Timely Detection and Mitigation of Stealthy DDoS Attacks Via IoT Networks | 
+| 2021 | TIFS | Self-Configurable Cyber-Physical Intrusion Detection for Smart Homes Using Reinforcement Learning | 
 | 2021 | USENIX | I Always Feel Like Somebody’s Sensing Me! A Framework to Detect, Identify, and Localize Clandestine Wireless Sensors |
+| 2021 | ACNS | A Good Anvil Fears No Hammer: Automated Rowhammer Detection Using Unsupervised Deep Learning | 
+| 2021 | ACNS | A Differentially Private Hybrid Approach to Traffic Monitoring | 
+| 2021 | ACNS | Towards Real-Time Deep Learning-Based Network Intrusion Detection on FPGA | 
+| 2021 | DSN | InjectaBLE: Injecting malicious traffic into established Bluetooth Low Energy connections | 
+| 2021 | Euro S&P | BGPeek-a-Boo: Active BGP-based Traceback for Amplification DDoS Attacks | 
+| 2021 | Globecom | A Reliable Real-Time Slow DoS Detection Framework for Resource-Constrained IoT Networks | 
+| 2021 | Globecom | All Predict Wisest Decides: A Novel Ensemble Method to Detect Intrusive Traffic in IoT Networks | 
+| 2021 | Globecom | Deep Learning Based Device Classification Method for Safeguarding Internet of Things | 
+| 2021 | Globecom | MIRAI Botnet Attack Detection with Auto-Associative Dense Random Neural Network | 
+| 2021 | Globecom | Multi-hop Graph Embedding for Botnet Detection | 
+| 2021 | Globecom | NGS: Mitigating DDoS Attacks using SDN-based Network Gate Shield | 
+| 2021 | Globecom | Profiling IoT Botnet Activity in the Wild | 
+| 2021 | Globecom | PWPAE: An Ensemble Framework for Concept Drift Adaptation in IoT Data Streams | 
+| 2021 | Globecom | Robust Distributed Intrusion Detection System for Edge of Things | 
+| 2021 | ICC | Anomaly Detection using Machine Learning to Discover Sensor Tampering in IoT Systems | 
+| 2021 | ICC | Federated Reinforcement Learning-Supported IDS for IoT-steered Healthcare Systems | 
+| 2021 | IM | Detection of DoS/DDoS attacks: the UBM and GMM approach | 
+| 2021 | IoT Journal | A Novel Intrusion Detection Method Based on Lightweight Neural Network for Internet of Things | 
+| 2021 | IoT Journal | CorrAUC: A Malicious Bot-IoT Traffic Detection Method in IoT Network Using Machine-Learning Techniques | 
+| 2021 | IoT Journal | Hybrid Deep Learning for Botnet Attack Detection in the Internet-of-Things Networks | 
+| 2021 | IoT Journal | Semi-Supervised Spatiotemporal Deep Learning for Intrusions Detection in IoT Networks | 
+| 2021 | WiSec | Non-IID data re-balancing at IoT edge with peer-to-peer federated learning for anomaly detection | 
+| 2022 | CCS | Decentralized Federated Learning for Internet of Things Anomaly Detection | 
+| 2022 | CCS | Don't Kick Over the Beehive: Attacks and Security Analysis on Zigbee | 
+| 2022 | INFOCOM | IoT Botnet Detection framework from Network Behavior based on Extreme Learning Machine | 
+| 2022 | INFOCOM | Machine and Deep Learning Approaches for IoT Attack Classification | 
+| 2022 | INFOCOM | Feature-Attended Multi-Flow LSTM for Anomaly Detection in Internet of Things | 
+| 2022 | NDSS | A Lightweight IoT Cryptojacking Detection Mechanism in Heterogeneous Smart Home Networks | 
+| 2022 | S&P | Delay Wreaks Havoc on Your Smart Home: Delay-based Automation Interference Attacks | 
+| 2022 | TDSC | Inferring and Investigating IoT-Generated Scanning Campaigns Targeting a Large Network Telescope | 
 | 2022 | USENIX | Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment |
-### 1) Detecting Attack on CIoT
-
-### 2) CIoT Botnet Detection
+| 2022 | Globecom | Adversarial Attacks Against IoT Networks using Conditional GAN based Learning | 
+| 2022 | Globecom | Anomaly Traffic Detection with Federated Learning toward Network-based Malware Detection in IoT | 
+| 2022 | Globecom | Contrastive GNN-based Traffic Anomaly Analysis Against Imbalanced Dataset in IoT-based ITS | 
+| 2022 | Globecom | Defending Against DDOS Attacks on IoT Network Throughput: A Trust-Stackelberg Game Model | 
+| 2022 | Globecom | FTLIoT: A Federated Transfer Learning Framework for Securing IoT | 
+| 2022 | Globecom | Impersonation Attack Detection in IoT Networks | 
+| 2022 | Globecom | Metric Learning-based Few-Shot Malicious Node Detection for IoT Backhaul/Fronthaul Networks | 
+| 2022 | Globecom | Prior Knowledge based Advanced Persistent Threats Detection for IoT in a Realistic Benchmark | 
+| 2022 | Globecom | TDL-IDS: Towards A Transfer Deep Learning based Intrusion Detection System | 
+| 2022 | Globecom | Toward Secure and Private Federated Learning for IoT using Blockchain | 
+| 2022 | ICC | A Semi-Supervised Federated Learning Scheme via Knowledge Distillation for Intrusion Detection | 
+| 2022 | ICC | Cooperative and smart attacks detection systems in 6G-enabled Internet of Things | 
+| 2022 | ICC | Transformer-Based Malicious Traffic Detection for Internet of Things | 
+| 2022 | ICC | Ultra-Lightweight and Secure Intrusion Detection System for Massive-IoT Networks | 
+| 2022 | ICDCS | Autoencoder based Architecture for Mitigating phishing URL attack in the Internet of Things (IoT) using Deep Neural Networks | 
+| 2022 | IoT Journal | Boosting-Based DDoS Detection in Internet of Things Systems | 
+| 2022 | IoT Journal | Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT-Edge Devices | 
+| 2022 | NOMS | E-GraphSAGE: A Graph Neural Network based Intrusion Detection System for IoT | 
+| 2022 | NOMS | Enabling Malware Detection with Machine Learning on Programmable Switch | 
+| 2022 | WCNC | A Robust Distributed Intrusion Detection System for Collusive Attacks on Edge of Things | 
+| 2022 | WCNC | Twin Variational Auto-Encoder for Representation Learning in IoT Intrusion Detection | 
+| 2023 | USENIX | HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches | 
+| 2023 | IEEE Transactions on Dependable and Secure Computing | IoTa: Fine-Grained Traffic Monitoring for IoT Devices via Fully Packet-Level Models | 
+| 2023 | DSN | VoiceGuard: An Effective and Practical Approach for Detecting and Blocking Unauthorized Voice Commands to Smart Speakers | 
+| 2023 | ICC | A Heterogenous IoT Attack Detection Through Deep Reinforcement Learning: A Dynamic ML Approach | 
+| 2023 | ICC | Towards Detection of Zero-Day Botnet Attack in IoT Networks Using Federated Learning | 
+| 2023 | IoT Journal | CMTSNN: A Deep Learning Model for Multiclassification of Abnormal and Encrypted Traffic of Internet of Things | 
+| 2023 | NOMS | Detection of IoT Devices and Network Anomalies based on Anonymized Network Traffic | 
+| 2023 | NOMS | Distributed Device-Specific Anomaly Detection using Deep Feed-Forward Neural Networks | 
+| 2023 | NOMS | On the Impact of Blackhole-Attack Variations on ML-based Intrusion Detection Systems in IoT | 
+| 2023 | NOMS | SDN-based GTP-U Traffic Analysis for 5G Networks | 
+| 2023 | WCNC | A Lightweight Bit-Operation Abnormal Traffic Detection Method Based On XNOR-CNN | 
+| 2023 | WCNC | A Novel Approach based on Improved Naive Bayes for 5G Air Interface DDoS Detection | 
+| 2023 | WCNC | Data Balancing and CNN based Network Intrusion Detection System | 
+| 2023 | WCNC | Efficient Privacy-Preserving Federated Learning Against Inference Attacks for IoT | 
+| 2023 | WCNC | Scalable Wireless Anomaly Detection with Generative-LSTMs on RF Post-Detection Metadata |
 
 ## D. Security Analysis
 | **Year**  | **Publication** | **Name** | 
