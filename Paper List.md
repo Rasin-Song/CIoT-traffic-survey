@@ -2,13 +2,9 @@
 ### 1) Device Identification
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
-| 2015 | TDSC | GTID: A Technique for Physical Device and Device Type Fingerprinting |
-| 2017 | SAC | ProfilIoT: a machine learning approach for IoT device identification based on network traffic analysis |
-| 2017 | ESORICS | Link-Layer Device Type Classification on Encrypted Wireless Traffic with COTS Radios |
-| 2017 | INFOCOM WKSHPS | Characterizing and classifying IoT traffic in smart cities and campuses |
-| 2017 | ICDCS | IoT SENTINEL: Automated Device-Type Identification for Security Enforcement in IoT |
 | 2018 | SIGCOMM | IP-Based IoT Device Detection |
 | 2018 | USENIX | Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices |
+| 2018 | AsiaCCS | DeWiCam: Detecting Hidden Wireless Cameras via Smartphones |
 | 2018 | LCN | Automatic Device Classification from Network Traffic Streams of Internet of Things |
 | 2018 | ISCC | An efficient approach for device identification and traffic classification in IoT ecosystems |
 | 2019 | TMC | Classifying IoT Devices in Smart Environments Using Network Traffic Characteristics |
@@ -248,7 +244,13 @@
 | 2023 | WCNC | Data Balancing and CNN based Network Intrusion Detection System | 
 | 2023 | WCNC | Efficient Privacy-Preserving Federated Learning Against Inference Attacks for IoT | 
 | 2023 | WCNC | Scalable Wireless Anomaly Detection with Generative-LSTMs on RF Post-Detection Metadata |
-
+| 2024 | IoT Journal | Lightweight Federated Learning Driven Traffic Prediction for Heterogeneous IoT Networks |
+| 2024 | CSET | GothX: a generator of customizable, legitimate and malicious IoT network traffic |
+| 2024 | Future Generation Computer Systems | Multi-task learning for IoT traffic classification: A comparative analysis of deep autoencoders |
+| 2024 | IEEE Transactions on Network and Service Management | XNetIoT: An Extreme Quantized Neural Network Architecture For IoT Environment Using P4 |
+| 2024 | ICDCN | Mitigating IoT Botnet DDoS Attacks through MUD and eBPF based Traffic Filtering |
+| 2024 | IoT Journal | LightGuard: A Lightweight Malicious Traffic Detection Method for Internet of Things |
+| 2024 | IWCMC | AI-Driven Fast and Early Detection of IoT Botnet Threats: A Comprehensive Network Traffic Analysis Approach |
 
 ## D. Measurement
 ### 1) Security
@@ -292,3 +294,13 @@
 | 2022 | NOMS | Automated IoT security testing with SecLab |
 | 2023 | NOMS | Worst Attack Vulnerability and Fortification for IoT Security Management: An Approach and An Illustration for Smart Home IoT |
 | 2023 | CCS | IoTFlow: Inferring IoT Device Behavior at Scale through Static Mobile Companion App Analysis |
+
+## others
+| **Year**  | **Publication** | **Name** | 
+| :-----------: | :-----------: | ------------- |
+| 2015 | TDSC | GTID: A Technique for Physical Device and Device Type Fingerprinting |
+| 2017 | SAC | ProfilIoT: a machine learning approach for IoT device identification based on network traffic analysis |
+| 2017 | ESORICS | Link-Layer Device Type Classification on Encrypted Wireless Traffic with COTS Radios |
+| 2017 | INFOCOM WKSHPS | Characterizing and classifying IoT traffic in smart cities and campuses |
+| 2017 | ICDCS | IoT SENTINEL: Automated Device-Type Identification for Security Enforcement in IoT |
+| 2024 | International Journal of Computational Intelligence Systems  | Multi-scale Convolutional Feature Fusion Network Based on Attention Mechanism for IoT Traffic Classification |
