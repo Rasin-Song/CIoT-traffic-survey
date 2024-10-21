@@ -176,7 +176,7 @@
 | 2021 | Globecom | Deep Learning Based Device Classification Method for Safeguarding Internet of Things | 
 | 2021 | Globecom | MIRAI Botnet Attack Detection with Auto-Associative Dense Random Neural Network | 
 | 2021 | Globecom | Multi-hop Graph Embedding for Botnet Detection | 
-| 2021 | Globecom | NGS: Mitigating DDoS Attacks using SDN-based Network Gate Shield | 
+| 2021 | Globecom | NGS: Mitigating DDoS Attacks using SDN-based Network Gate Shield |  
 | 2021 | Globecom | Profiling IoT Botnet Activity in the Wild | 
 | 2021 | Globecom | PWPAE: An Ensemble Framework for Concept Drift Adaptation in IoT Data Streams | 
 | 2021 | Globecom | Robust Distributed Intrusion Detection System for Edge of Things | 
