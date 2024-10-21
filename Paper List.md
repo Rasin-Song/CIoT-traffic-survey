@@ -334,15 +334,12 @@
 ## others
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
-| 2015 | TDSC | GTID: A Technique for Physical Device and Device Type Fingerprinting |
+| 2017 | Arxiv | A Smart Home is No Castle: Privacy Vulnerabilities of Encrypted IoT Traffic |
+| 2017 | ICDCS | IoT SENTINEL: Automated Device-Type Identification for Security Enforcement in IoT |
 | 2017 | SAC | ProfilIoT: a machine learning approach for IoT device identification based on network traffic analysis |
 | 2017 | ESORICS | Link-Layer Device Type Classification on Encrypted Wireless Traffic with COTS Radios |
 | 2017 | INFOCOM WKSHPS | Characterizing and classifying IoT traffic in smart cities and campuses |
-| 2017 | ICDCS | IoT SENTINEL: Automated Device-Type Identification for Security Enforcement in IoT |
-| 2017 | Globecom | Modelling of IoT Traffic and Its Impact on LoRaWAN |
 | 2017 | Arxiv | Spying on the Smart Home: Privacy Attacks and Defenses on Encrypted IoT Traffic |
-| 2017 | IM | Applied Machine Learning predictive analytics to SQL Injection Attack detection and prevention | 
-| 2017 | USENIX | Understanding the Mirai Botnet | 
-| 2016 | INFOCOM | Side-channel information leakage of encrypted video stream in video surveillance systems |
-| 2017 | Arxiv | A Smart Home is No Castle: Privacy Vulnerabilities of Encrypted IoT Traffic |
-| 2024 | International Journal of Computational Intelligence Systems  | Multi-scale Convolutional Feature Fusion Network Based on Attention Mechanism for IoT Traffic Classification |
+| 2018 | SIGSAC | If this then what? controlling flows in IoT apps |
+| 2018 | USENIX | Are you spying on me? Large-Scale analysis on IoT data exposure through companion
+apps |
