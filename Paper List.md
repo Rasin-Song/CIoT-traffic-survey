@@ -19,6 +19,7 @@
 | 2019 | IM | ICS/SCADA Device Recognition: A Hybrid Communication-Patterns and Passive-Fingerprinting Approach |
 | 2019 | ECORICS | Uncertainty-Aware Authentication Model for IoT |
 | 2019 | RAID | Fingerprinting Tooling Used for SSH Compromisation Attempts |
+| 2019 | Policy-Based Autonomic Data Governance | Policy-based identification of IoT devices’ vendor and type by DNS traffic analysis |
 | 2020 | CCS | Your Smart Home Can't Keep a Secret: Towards Automated Fingerprinting of IoT Traffic |
 | 2020 | S&P | IoTFinder: Efficient Large-Scale Identification of IoT Devices via Passive DNS Traffic Analysis |
 | 2020 | USENIX | You Are What You Broadcast: Identification of Mobile and IoT Devices from (Public) WiFi |
@@ -111,6 +112,7 @@
 | 2018 | NOMS | Two-stage anomaly detection using application specific heavy hitter analysis | 
 | 2018 | RAID | Before Toasters Rise Up: A View into the Emerging IoT Threat Landscape | 
 | 2018 | SEC | Defending Internet of Things Against Malicious Domain Names using D-FENS |
+| 2018 | IEEE Pervasive Computing | N-BaIoT—Network-Based Detection of IoT Botnet Attacks Using Deep Autoencoders |
 | 2019 | CCS | HADES-IoT: A Practical Host-Based Anomaly Detection System for IoT Devices | 
 | 2019 | TIFS | A GLRT-Based Mechanism for Detecting Relay Misbehavior in Clustered IoT Networks | 
 | 2019 | ACSAC | Automatic Malware Detection on an Alexa-Pi IoT Device | 
@@ -235,6 +237,7 @@
 | 2023 | WCNC | Feature Engineering and Machine Learning Framework for DDoS Attack Detection in the Standardized Internet of Things | 
 | 2023 | WCNC | New Algorithms for the Detection of Malicious Traffic in 5G-MEC |
 | 2023 | WCNC | Scalable Wireless Anomaly Detection with Generative-LSTMs on RF Post-Detection Metadata |
+| 2023 | Electronics | Distributed deep neural-network-based middleware for cyber-attacks detection in smart iot ecosystem: A novel framework and performance evaluation approach |
 | 2024 | IoT Journal | LightGuard: A Lightweight Malicious Traffic Detection Method for Internet of Things |
 | 2024 | IoT Journal | Lightweight Federated Learning Driven Traffic Prediction for Heterogeneous IoT Networks |
 | 2024 | CSET | GothX: a generator of customizable, legitimate and malicious IoT network traffic |
