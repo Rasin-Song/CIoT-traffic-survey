@@ -285,6 +285,50 @@
 | 2023 | NOMS | Worst Attack Vulnerability and Fortification for IoT Security Management: An Approach and An Illustration for Smart Home IoT |
 | 2023 | CCS | IoTFlow: Inferring IoT Device Behavior at Scale through Static Mobile Companion App Analysis |
 
+## others---defense
+| **Year**  | **Publication** | **Name** | 
+| :-----------: | :-----------: | ------------- |
+| 2018 | IoT Journal | EPIC: A Differential Privacy Framework to Defend Smart Homes Against Internet Traffic Analysis |
+| 2018 | ESORICS | Hide Your Hackable Smart Home from Remote Attacks: The Multipath Onion IoT Gateways |
+| 2018 | SEC | Vigilia: Securing Smart Home Edge Computing |
+| 2018 | SEC | Detection and Response to Data Exfiltration from Internet of Things Android Devices |
+| 2019 | INFOCOM | STewARD: SDN and blockchain-based Trust Evaluation for Automated Risk Management on IoT Devices |
+| 2019 | ICDCS | XLF: A Cross-layer Framework to Secure the Internet of Things (IoT) |
+| 2019 | PETS | DP-ACT: Decentralized Privacy-Preserving Asymmetric Digital Contact Tracing |
+| 2019 | Euro S&P | PILOT: Practical Privacy-Preserving Indoor Localization Using OuTsourcing |
+| 2019 | FC | Combining Voice and Image Recognition for Smart Home Security System |
+| 2019 | ACNS | Hide and Seek: An Architecture for Improving Attack-Visibility in Industrial Control Systems |
+| 2019 | IM | AMIS: Programmable Privacy-Preserving Network Measurement for Analysis and Troubleshooting |
+| 2020 | ACNS | Secure Management of IoT Devices Based on Blockchain Non-fungible Tokens and Physical Unclonable Functions |
+| 2020 | Euro S&P | Extensive Security Verification of the LoRaWAN Key-Establishment: Insecurities & Patches |
+| 2020 | SEC | IoTReplay: Troubleshooting COTS IoT Devices with Record and Replay |
+| 2020 | RAID | BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy Networks |
+| 2020 | WCNC | Robust Self-Protection Against Application-Layer (D)DoS Attacks in SDN Environment |
+| 2020 | IFIP | NFV-based IoT Security for Home Networks using MUD |
+| 2020 | ICC | Highly-Scalable Software Firewall Supporting One Million Rules for 5G NB-IoT Networks |
+| 2021 | PETS | Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic |
+| 2021 | TDSC | PrivHome: Privacy-Preserving Authenticated Communication in Smart Home Environment |
+| 2021 | IM | FQDN-Based Whitelist Filter on a DNS Cache Server Against the DNS Water Torture Attack |
+| 2021 | IM | Defense Against SYN Flood DoS Attacks Using Network-based Mitigation Techniques |
+| 2021 | IM | Unified SNMP Interface for IoT Monitoring |
+| 2021 | PAM | NATting Else Matters: Evaluating IPv6 Access Control Policies in Residential Networks |
+| 2021 | WCNC | An Effective Dynamic Membership Authentication and Key Management Scheme in Wireless Sensor Networks |
+| 2022 | TON | Network Traffic Shaping for Enhancing Privacy in IoT Systems |
+| 2022 | ACNS | HolA: Holistic and Autonomous Attestation for IoT Networks |
+| 2022 | Globecom | Secure and Efficient Traffic Obfuscation for Smart Home |
+| 2022 | WCNC | SEDIMENT: An IoT-device-centric Methodology for Scalable 5G Network Security |
+| 2022 | GlobeCom | An Incentive-Based Differential Privacy-Preserving Truth Discovery over Streaming Data |
+| 2022 | NOMS | Monitoring Smart Home Traffic under Differential Privacy |
+| 2022 | NOMS | One MUD to Rule Them All: IoT Location Impact |
+| 2022 | NOMS | Characterizing Mobile Signaling Anomalies in the Internet-of-Things |
+| 2022 | ICC | IoT Traffic Obfuscation: Will it Guarantee the Privacy of Your Smart Home? |
+| 2023 | PETS | iPET: Privacy Enhancing Traffic Perturbations for Secure IoT Communications |
+| 2023 | WCNC | SymSDN: A DRDoS Attack Prevention Approach |
+| 2023 | NOMS | A Distributed Zero Trust Framework for 6G RAN |
+| 2023 | IoT Journal | Towards continuous threat defense: in-network traffic analysis for iot gateways |
+| 2023 | IoT Journal | Ensuring Reliability for LoRa Networks Using a Reinforcement Learning Assisted Time Division Duplex Protocol |
+
+
 ## others
 | **Year**  | **Publication** | **Name** | 
 | :-----------: | :-----------: | ------------- |
