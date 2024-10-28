@@ -245,6 +245,12 @@
 | 2024 | TNSM | XNetIoT: An Extreme Quantized Neural Network Architecture For IoT Environment Using P4 |
 | 2024 | ICDCN | Mitigating IoT Botnet DDoS Attacks through MUD and eBPF based Traffic Filtering |
 | 2024 | IWCMC | AI-Driven Fast and Early Detection of IoT Botnet Threats: A Comprehensive Network Traffic Analysis Approach |
+| 2024 | Security and Privacy | Botnet‐based IoT network traffic analysis using deep learning |
+| 2024 | IoT Journal | Improving IoT Security With Explainable AI: Quantitative Evaluation of Explainability for IoT Botnet Detection |
+| 2024 | IoT Journal | Hardware/Software Codesign of Real-Time Intrusion Detection System for Internet of Things Devices |
+| 2024 | IoT Journal | Multilevel Deep Neural Network Approach for Enhanced Distributed Denial-of-Service Attack Detection and Classification in Software-Defined Internet of Things Networks |
+| 2024 | IoT Journal | EMTD-SSC: An Enhanced Malicious Traffic Detection Model Using Transfer Learning Under Small Sample Conditions in IoT |
+| 2024 | ACNS | Evaluation of Lightweight Machine Learning-Based NIDS Techniques for Industrial IoT |
 
 ## D. Measurement
 ### 1) Security
