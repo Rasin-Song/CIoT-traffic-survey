@@ -349,5 +349,4 @@
 | 2017 | INFOCOM WKSHPS | Characterizing and classifying IoT traffic in smart cities and campuses |
 | 2017 | Arxiv | Spying on the Smart Home: Privacy Attacks and Defenses on Encrypted IoT Traffic |
 | 2018 | SIGSAC | If this then what? controlling flows in IoT apps |
-| 2018 | USENIX | Are you spying on me? Large-Scale analysis on IoT data exposure through companion
-apps |
+| 2018 | USENIX | Are you spying on me? Large-Scale analysis on IoT data exposure through companion apps |
